@@ -1,6 +1,19 @@
+
 public class BMI  extends Athlete{
     public BMI(String name, double weight, double height) {
         super(name, height, weight);
+    }
+
+    BMI(double weight, double height) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    BMI(double weight, double height) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    BMI(double weight, double height) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
 
     public String diagnostic(){
